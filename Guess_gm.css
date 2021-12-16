@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+.upper1{
+    height: 60px;
+    background-color: #090979;
+    border: 2px solid black;
+    position: fixed;
+    width: 100%;
+}
+.upper1 h1{
+    color: white;
+    padding: 15px 0px ;
+}
+.lower1{
+    color: white;
+    padding-top: 200px;
+    height: 500px;
+    background-image: url(bgimg1.jpg);
+    background-size: cover;
+}
+.lower1 h3{
+    font-size: 25px;
+    color: hsl(51, 100%, 50%);
+}
+.hidden{
+    display: none;
+}
